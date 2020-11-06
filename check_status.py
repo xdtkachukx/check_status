@@ -1,10 +1,11 @@
 import asyncio
 import csv
-import httplib2
 import logging
 import re
-import requests
 import sys
+
+import httplib2
+import requests
 
 
 FILE_NAME = 'urls.csv'
